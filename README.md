@@ -6,11 +6,11 @@ Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src
 
 | Nombre | Mail | GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Renzo Agüero | renzoeliseomiguel@gmail.com | RemaOn |
+| Franco Videla | thefranco177@gmail.com | FrancoLautaro2112 |
+| Adrian Sosa Diaz  | adriansosadiaz2004@gmail.com | AdricsSD4 |
 
-**Tema elegido:** Pokédex / Recetario / Biblioteca musical (dejar uno)
+**Tema elegido:** Biblioteca musical
 
 ## Cómo ejecutar
 
