@@ -42,4 +42,6 @@ Defensa oral (reemplaza el 2do parcial): 25 y 27-nov-2026.
 
 La cátedra corrige el **tag**, no el último commit suelto de `main`.
 
-El grupo se avisa por mail a diego.ambrossio@unab.edu.ar **y** angel.bianco@unab.edu.ar. Ver `GIT.md`.
+El grupo se avisa por mail a diego.ambrossio@unab.edu.ar **y** angel.bianco@unab.edu.ar. Ver `GIT.md`. 
+a
+
