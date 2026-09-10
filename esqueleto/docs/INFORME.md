@@ -5,11 +5,11 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 ## 1. Grupo y tema
 
 - Tema:musica
-- Por qué lo eligieron (5–8 líneas):porque nos gusta la musica 
+- Por qué lo eligieron (5–8 líneas):Elegimos este tema porque casualmente es un interes compartido, ademas de llamar nuestra atencion la posibilidad de comprender como funciona la logica de varias aplicaciones de repruduccion musical construyendo nuestra propia playlist
 
 ## 2. Modelo
 
-Qué es un ítem del catálogo. Qué es mutable y qué no (E1). Cómo se relacionan catálogo, colección principal, pila y cola.
+Qué es un ítem del catálogo(Es el objeto musica completo que permite mover todos los datos juntos para usarlos). Qué es mutable y qué no (Los datos iniciales del catalago son inmutables ya que no se puede modificar una vez que se los declara dentro del catalogo.Si es mutable las listas de reproduccion, agregando y sacando canciones) (E1). Cómo se relacionan catálogo, colección principal, pila y cola(Musica proporciona los atributos a catalogo el cual permite clasificar las canciones y crea una lista que genera una pila y una cola de reproduccion que selecciona las canciones que quieran escuchar).
 
 ```text
 (pueden pegar un diagrama ASCII o una lista de clases)

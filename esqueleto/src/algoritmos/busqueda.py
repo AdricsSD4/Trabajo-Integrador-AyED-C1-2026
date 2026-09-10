@@ -5,4 +5,4 @@ def busqueda_lineal(coleccion, clave, obtener_clave):
 
 def busqueda_binaria(coleccion_ordenada, clave, obtener_clave):
     """La colección tiene que estar ordenada por obtener_clave."""
-    raise NotImplementedError
+    raise NotImplementedError 

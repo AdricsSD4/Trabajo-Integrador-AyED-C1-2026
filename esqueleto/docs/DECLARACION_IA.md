@@ -6,7 +6,7 @@ Fecha de esta versión del archivo:
 
 | Entrega | Fecha | Herramienta (ChatGPT, Cursor, Copilot, otra) | Para qué (diseño, código, debug, docs) | Qué pegaron o generaron | Qué reescribieron / revisaron a mano | Integrante |
 | --- | --- | --- | --- | --- | --- | --- |
-| E1 |  |  |  |  |  |  |#no usamos todavia
+| E1 |  10/09| Gemini | Debug | Menu interactivo | FrancoLautaro2112/RemaOn/AdriacsSD4 |
 | E2 |  |  |  |  |  |  |
 | E3 |  |  |  |  |  |  |
 | E4 |  |  |  |  |  |  |
