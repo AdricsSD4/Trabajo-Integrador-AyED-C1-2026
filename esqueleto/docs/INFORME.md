@@ -17,10 +17,10 @@ Qué es un ítem del catálogo(Es el objeto musica completo que permite mover to
 
 ## 3. Recursión (E2)
 
-- Función:
-- Caso base:
-- Caso recursivo:
-- Traza de un ejemplo real del dataset:
+- Función:"versiones_de(self, id_cancion)" en la clase "Catalogo"
+- Caso base: Cuando la función consulta por un ID que no tiene versiones registradas, recibe una lista vacía []. Como ya no hay más canciones para seguir explorando, corta la recursión ahi y retorna el resultado
+- Caso recursivo: Si encuentra covers de la canción, guarda sus IDs y vuelve a revisar uno por uno para ver si esos covers tienen a su vez más versiones
+- Traza de un ejemplo real del dataset: Probamos la busqueda arrancando desde la canción original "De Música Ligera" (ID 1). En nuestro catalogo, esta cancion se conecta directamente con el ID 5 (El Último Concierto) y con el ID 6 (Cover de Coldplay). A su vez, el ID 6 se conecta con el ID 7 (Cover del Cover)
 
 ## 4. TADs (E3)
 
