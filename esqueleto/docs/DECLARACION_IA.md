@@ -7,7 +7,7 @@ Fecha de esta versión del archivo:
 | Entrega | Fecha | Herramienta (ChatGPT, Cursor, Copilot, otra) | Para qué (diseño, código, debug, docs) | Qué pegaron o generaron | Qué reescribieron / revisaron a mano | Integrante |
 | --- | --- | --- | --- | --- | --- | --- |
 | E1 |  10/09| Gemini | Debug | Menu interactivo | FrancoLautaro2112/RemaOn/AdriacsSD4 |
-| E2 |  20/9|Gemini |Explicacion sobre recursion(No lo entendiamos) | FrancoLautaro2112/RemaOn/AdriacsSD4 |  |  |
+| E2 |  20/9|Gemini |Explicacion sobre recursion(No lo entendiamos) |  | FrancoLautaro2112/RemaOn/AdriacsSD4 |  |
 | E3 |  |  |  |  |  |  |
 | E4 |  |  |  |  |  |  |
 | E5 |  |  |  |  |  |  |
